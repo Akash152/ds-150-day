@@ -1,0 +1,3 @@
+| Concept | What went wrong | Fix | Date |
+| --- | --- | --- | --- |
+| f-string | Used .2f on a string and got a ValueError | Convert with float() first | 2026-10-26 |
